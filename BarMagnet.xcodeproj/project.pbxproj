@@ -1069,7 +1069,7 @@
 				);
 				MARKETING_VERSION = 2.0.1;
 				ONLY_ACTIVE_ARCH = NO;
-				PRODUCT_BUNDLE_IDENTIFIER = consulting.monadic.BarMagnet;
+				PRODUCT_BUNDLE_IDENTIFIER = consulting.samci.BarMagnet;
 				PRODUCT_NAME = BarMagnet;
 				PROVISIONING_PROFILE = "";
 				SDKROOT = iphoneos;
@@ -1106,7 +1106,7 @@
 				);
 				MARKETING_VERSION = 2.0.1;
 				ONLY_ACTIVE_ARCH = NO;
-				PRODUCT_BUNDLE_IDENTIFIER = consulting.monadic.BarMagnet;
+				PRODUCT_BUNDLE_IDENTIFIER = consulting.samci.BarMagnet;
 				PRODUCT_NAME = BarMagnet;
 				PROVISIONING_PROFILE = "";
 				SDKROOT = iphoneos;
